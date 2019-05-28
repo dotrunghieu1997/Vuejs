@@ -1,0 +1,22 @@
+#navbar {
+    height: 60px;
+}
+
+#leftside {
+    right: 0px;
+}
+
+.form-control.search-box {
+    width: calc(100% - 110px) !important;
+    float: left;
+}
+
+#cartbtn {
+    width: 90px;
+    float: right;
+}
+
+#carouselIndicators {
+    height: 50px;
+    width: 50px;
+}
